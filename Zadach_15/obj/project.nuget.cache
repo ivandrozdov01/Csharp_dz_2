@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WUmG8IyHgEShVkn79Fu8HOGtkyMlcsgGdgIPyDWEcn/C8MugM2SYOJTjYrrSG4ylu2J903czcuWUciGdm4blew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Тест-ПК\\Desktop\\Csharp\\Csharp_dz_2\\Zadach_15\\Zadach_15.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша C:\\Users\\Тест-ПК\\Desktop\\Csharp\\Csharp_dz_2\\Zadach_15\\obj\\project.nuget.cache: Found invalid data while decoding."
+    }
+  ]
+}
